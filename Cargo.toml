@@ -1,0 +1,10 @@
+[package]
+name = "minigrep_awm"
+version = "0.1.0"
+edition = "2021"
+description = "A fun game where the developer copies and pastes code from The Rust Programming Book!"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
